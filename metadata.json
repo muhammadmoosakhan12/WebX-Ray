@@ -1,0 +1,6 @@
+{
+  "name": "WebX-Ray - Website Intelligence & Audit Platform",
+  "description": "Evidence-based website intelligence platform providing deep SEO, performance, accessibility, and conversion audits with actionable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
